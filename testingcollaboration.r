@@ -4,4 +4,11 @@ getwd()
 
 print("we're doing github collaboration!")
 
+# adding changes from danny_makeplot branch above Sabrina's changes
+
+birdcounts <- c(1, 3, 6, 4, 9)
+
+plot(birdcounts)
+
 # Sabrina made some changes
+
